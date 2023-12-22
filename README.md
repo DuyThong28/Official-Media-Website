@@ -1,10 +1,8 @@
 
-  # locofy-html-css-project
+  # <a href="https://6584f6a3727b002aed888b88--aesthetic-duckanoo-356d9d.netlify.app/" target="_blank">Official Media Website</a>
+  ![Official-Media-Website-Image](https://github.com/DuyThong28/Official-Media-Website/assets/127670753/b5d78ed7-eac4-415e-92e7-59a5c4115509)
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+  
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
+
   
